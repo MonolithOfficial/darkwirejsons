@@ -1,35 +1,35 @@
 [
     {
         "title": "Top 10 Old-School Death Metal Bands From the 90s",
-        "category": "Music",
+        "category": "Metal",
         "number": 1,
         "photo": "90s_concepts.png",
         "content": "top_ten_dm_90s.json"
     },
     {
         "title": "Top 10 Metal Concept Albums of 2000s",
-        "category": "category2",
+        "category": "Metal",
         "number": 2,
         "photo": "90s_concepts.png",
         "content": "top_ten_dm_90s.json"
     },
     {
-        "title": "article3",
-        "category": "category3",
+        "title": "10 Obscure Gems of Death Metal",
+        "category": "Metal",
         "number": 3,
         "photo": "90s_concepts.png",
         "content": "top_ten_dm_90s.json"
     },
     {
-        "title": "article4",
-        "category": "category4",
+        "title": "Top 10 Metal Bassists of All Time",
+        "category": "Metal",
         "number": 4,
         "photo": "90s_concepts.png",
         "content": "top_ten_dm_90s.json"
     },
     {
-        "title": "article5",
-        "category": "category5",
+        "title": "10 Production Tips for Metal Producers",
+        "category": "Metal",
         "number": 5,
         "photo": "90s_concepts.png",
         "content": "top_ten_dm_90s.json"

@@ -1,6 +1,7 @@
 [
     {
         "title": "Top 10 Old-School Death Metal Bands From the 90s",
+        "desc": "Primal Death Metal from the 90s, at its peak popuarity, was gaining unforseen momentum as bands from around the world carried its flag. Here's the Top 10 of those legendary bands.",
         "category": "Metal",
         "number": 1,
         "photo": "90s_concepts.png",
@@ -8,6 +9,7 @@
     },
     {
         "title": "Top 10 Metal Concept Albums of 2000s",
+        "desc": "Concept albums have, are and always will be an efficient way of looking at music from a different perspective. Maybe you can say more than you could've without the concept? Maybe you can tell a story in a more cinematic way? Yes, it's quite a feat to design a solid structure, so, here is the Top 10 of concept albums from the 2000s that exceeded every expectation.",
         "category": "Metal",
         "number": 2,
         "photo": "90s_concepts.png",
@@ -15,6 +17,7 @@
     },
     {
         "title": "10 Obscure Gems of Death Metal",
+        "desc": "Some of the best and heartfelt efforts of Death Metal are buried within the dark of obscurity, which can be quite amazing once you dive in. It's always fun to delve into the dark and see how these unorthodox records stand up to the more mainstream options.",
         "category": "Metal",
         "number": 3,
         "photo": "90s_concepts.png",
@@ -22,6 +25,7 @@
     },
     {
         "title": "Top 10 Metal Bassists of All Time",
+        "desc": "No bass, no party! No, seriously, getting to hear the bass in a metal track is half the job a bassist can do, the other half being incorporating bass in a more additive, compositional way, so that you hear not only that it supports buzzing guitars, but also makes up the root of the song, making you search for it and follow like a zombie. These 10 bassists embody this whole idea and more!",
         "category": "Metal",
         "number": 4,
         "photo": "90s_concepts.png",
@@ -29,6 +33,7 @@
     },
     {
         "title": "10 Production Tips for Metal Producers",
+        "desc": "Have you noticed how lately a lot of metal bands started to sort of sound the same? It'd be unfair to say that humanity's creativity nosedived recently, because that isn't the case in most situations. See, computers take us quite literally and they do only what is required/expected of them and many producers are a bit too possessed by best practices, while what they should be doing is exploring and experimenting.",
         "category": "Metal",
         "number": 5,
         "photo": "90s_concepts.png",
@@ -37,6 +42,7 @@
     {
         "title": "article7",
         "category": "categor7",
+        "desc": "Primal Death Metal from the 90s, at its peak popuarity, was gaining unforseen momentum as bands from around the world carried its flag. Here's the Top 10 of those legendary bands.",
         "number": 6,
         "photo": "90s_concepts.png",
         "content": "top_ten_dm_90s.json"
@@ -44,6 +50,7 @@
     {
         "title": "article7",
         "category": "categor7",
+        "desc": "Primal Death Metal from the 90s, at its peak popuarity, was gaining unforseen momentum as bands from around the world carried its flag. Here's the Top 10 of those legendary bands.",
         "number": 7,
         "photo": "90s_concepts.png",
         "content": "top_ten_dm_90s.json"
@@ -51,6 +58,7 @@
     {
         "title": "article7",
         "category": "categor7",
+        "desc": "Primal Death Metal from the 90s, at its peak popuarity, was gaining unforseen momentum as bands from around the world carried its flag. Here's the Top 10 of those legendary bands.",
         "number": 8,
         "photo": "90s_concepts.png",
         "content": "top_ten_dm_90s.json"
@@ -58,6 +66,7 @@
     {
         "title": "article7",
         "category": "categor7",
+        "desc": "Primal Death Metal from the 90s, at its peak popuarity, was gaining unforseen momentum as bands from around the world carried its flag. Here's the Top 10 of those legendary bands.",
         "number": 9,
         "photo": "90s_concepts.png",
         "content": "top_ten_dm_90s.json"
@@ -65,6 +74,7 @@
     {
         "title": "article7",
         "category": "categor7",
+        "desc": "Primal Death Metal from the 90s, at its peak popuarity, was gaining unforseen momentum as bands from around the world carried its flag. Here's the Top 10 of those legendary bands.",
         "number": 10,
         "photo": "90s_concepts.png",
         "content": "top_ten_dm_90s.json"
@@ -72,6 +82,7 @@
     {
         "title": "article7",
         "category": "categor7",
+        "desc": "Primal Death Metal from the 90s, at its peak popuarity, was gaining unforseen momentum as bands from around the world carried its flag. Here's the Top 10 of those legendary bands.",
         "number": 11,
         "photo": "90s_concepts.png",
         "content": "top_ten_dm_90s.json"
@@ -79,6 +90,7 @@
     {
         "title": "article7",
         "category": "categor7",
+        "desc": "Primal Death Metal from the 90s, at its peak popuarity, was gaining unforseen momentum as bands from around the world carried its flag. Here's the Top 10 of those legendary bands.",
         "number": 12,
         "photo": "90s_concepts.png",
         "content": "top_ten_dm_90s.json"
@@ -86,6 +98,7 @@
     {
         "title": "article7",
         "category": "categor7",
+        "desc": "Primal Death Metal from the 90s, at its peak popuarity, was gaining unforseen momentum as bands from around the world carried its flag. Here's the Top 10 of those legendary bands.",
         "number": 13,
         "photo": "90s_concepts.png",
         "content": "top_ten_dm_90s.json"
@@ -93,6 +106,7 @@
     {
         "title": "article7",
         "category": "categor7",
+        "desc": "Primal Death Metal from the 90s, at its peak popuarity, was gaining unforseen momentum as bands from around the world carried its flag. Here's the Top 10 of those legendary bands.",
         "number": 14,
         "photo": "90s_concepts.png",
         "content": "top_ten_dm_90s.json"
